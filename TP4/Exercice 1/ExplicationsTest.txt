@@ -1,0 +1,15 @@
+donnees.txt
+
+Test avec une suite d'entiers différents déjà triée. 
+
+donnees_2.txt 
+
+Test avec une suite d'entiers différents et non triée
+
+donnees_3.txt
+
+Test avec une suite d'entiers différents et triée dans le sens inverse
+
+donnees_4.txt 
+
+Test avec un seul entier
